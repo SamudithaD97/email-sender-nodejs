@@ -1,6 +1,6 @@
 # Node.js Email Sender
 
-A simple and efficient Node.js application for sending emails using Gmail SMTP service with Nodemailer.
+A simple and efficient Node.js feature for sending emails using Gmail SMTP service with Nodemailer.
 
 ## Features
 
